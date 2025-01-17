@@ -28,19 +28,7 @@ pip install -r requirements.txt
 1. **Initialize the Environment:**
    Ensure you have a `.env` file with the necessary API keys, such as `GOOGLE_API_KEY` and `SERPER_API_KEY`.
 
-2. **Run the Agents:**
-   Execute the `agents.py` script to initialize the agents.
-   ```bash
-   python agents.py
-   ```
-
-3. **Assign Tasks:**
-   Use the `tasks.py` script to assign tasks to the agents.
-   ```bash
-   python tasks.py
-   ```
-
-4. **Form the Crew and Kickoff:**
+2. **Form the Crew and Kickoff:**
    Use the `crew.py` script to form the crew and start the task execution process.
    ```bash
    python crew.py
@@ -52,16 +40,7 @@ The project relies on various Python packages listed in the `requirements.txt`. 
 - `crewai`
 - `langchain`
 - `google-auth`
-- `fastapi`
 - `serper`
 
-## Contributing
 
-Feel free to open issues or submit pull requests for improvements and new features.
 
-## License
-
-This project is licensed under the MIT License.
-```
-
-You can copy and paste this content directly into your `README.md` file on GitHub.
