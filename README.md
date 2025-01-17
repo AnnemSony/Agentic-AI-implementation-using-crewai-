@@ -1,4 +1,3 @@
-Here is the `README.md` content formatted for direct use in GitHub:
 
 ```markdown
 # Agentic AI Implementation using Crewai
